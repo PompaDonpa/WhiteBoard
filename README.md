@@ -27,10 +27,10 @@
 
 <br />
 
-- ## [Algorithms](https://github.com/PompaDonpa/WhiteBoard/tree/main/algorithms)
-  - [CodeSignal](https://github.com/PompaDonpa/WhiteBoard/tree/main/algorithms/codesignal)
-  - [Codewars](https://github.com/PompaDonpa/WhiteBoard/tree/main/algorithms/codewars)
-  - [Interviews](https://github.com/PompaDonpa/WhiteBoard/tree/main/algorithms/interviews)
+- ## [Algorithms](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms)
+  - [CodeSignal](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal)
+  - [Codewars](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeWars)
+  - [Interviews](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/Interviews)
   - [LeetCode](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/LeetCode)
 
 <br />
