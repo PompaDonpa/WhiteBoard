@@ -1,3 +1,5 @@
 # Codesignal
 
-<img src='https://github.com/PompaDonpa/WhiteBoard/tree/main/Assets/svg/codesignal.svg' />
+<a href='#'>
+    <img src='../../Assets/svg/codesignal.svg' alt='codesignal-badge' style="vertical-align:top margin:6px 4px"/>
+</a>
