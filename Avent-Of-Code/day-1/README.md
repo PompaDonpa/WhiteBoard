@@ -101,3 +101,10 @@ Consider sums of a three-measurement sliding window.
 
 ### **How many sums are larger than the previous sum?**
 <hr />
+
+<br />
+
+
+Solution
+
+<iframe src="https://github.com/PompaDonpa/WhiteBoard/blob/main/Avent-Of-Code/day-1/index.js" width="100%" height="auto"></iframe>
