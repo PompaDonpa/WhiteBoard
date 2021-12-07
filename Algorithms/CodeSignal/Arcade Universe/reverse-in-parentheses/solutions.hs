@@ -1,5 +1,4 @@
 -- vladislav_g3
-
 solution = head . foldr f [""]
     where f ')' xs = "":xs
           f '(' (x:y:xs) = (reverse x ++ y) : xs  
@@ -7,7 +6,6 @@ solution = head . foldr f [""]
 
 
 -- andymac-2
-
 import Text.Parsec (parse, (<|>), many, many1, between)
 import Text.Parsec.String (Parser)
 import Text.Parsec.Char (noneOf, char)
@@ -28,7 +26,6 @@ reverseP = reverse <$> between (char '(') (char ')') ripP
 
 
 -- intrets.-
-
 import Text.ParserCombinators.Parsec
 import Data.Either
 
@@ -51,15 +48,14 @@ solution = (\(Right x) -> x) . parse (parser <* eof) ""
 
 
 -- bubbler
-
 solution :: String -> String
 solution s = rev s [] where
     rev [] stk = reverse stk
     rev (')':t) stk = let (s1, s2) = span (/='(') stk in rev t (reverse s1 ++ tail s2)
     rev (h:t) stk = rev t (h:stk)
 
--- kane
 
+-- kane
 solution = head . foldr ko [""]
 
 ko ')' xs = "" : xs

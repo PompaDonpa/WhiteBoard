@@ -52,7 +52,7 @@ function solution (inputString) {
   return inputString.replace(/(\(\)*)/g, '')
 }
 
-// solution("()()dome()()")         => 'dome'   - not passing
+// solution("()()dome()()")         => 'dome'   - passing
 // solution("()()(dome)()()")       => 'odem'   - passing
 // solution("((()))")               =>   ''     - passing
 // solution("(((a)))")              =>   'a'    - passing

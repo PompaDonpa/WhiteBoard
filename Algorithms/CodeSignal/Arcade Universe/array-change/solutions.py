@@ -1,5 +1,4 @@
 # bandorthild
-
 def solution(inputArray):
     a = 0
     for i in range(1, len(inputArray)):
@@ -11,7 +10,6 @@ def solution(inputArray):
 
 
 # john-ellis
-
 def solution(inputArray):
 
     target = inputArray[0] - 1
@@ -26,9 +24,8 @@ def solution(inputArray):
 
     return steps
 
+
 # yihand
-
-
 def solution(inputArray):
     k = [inputArray[0]]
     for i in range(1, len(inputArray)):

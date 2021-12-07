@@ -1,5 +1,4 @@
 // jakzo
-
 function solution (inputString) {
   while (inputString.includes('(')) {
     inputString = inputString.replace(/\(([^()]*)\)/, (_, str) =>
@@ -9,8 +8,8 @@ function solution (inputString) {
   return inputString
 }
 
-// daniel_z38
 
+// daniel_z38
 function solution (s) {
   while (true) {
     let c = s.indexOf(')')
@@ -35,8 +34,8 @@ function solution (s) {
   return s
 }
 
-// ditana
 
+// ditana
 function solution (inputString) {
   var s = inputString
 
@@ -55,14 +54,14 @@ function solution (inputString) {
   return s
 }
 
-//   caldric
 
+//   caldric
 r = /\((\w*)\)/g
 f = solution = s =>
   r.test(s) ? f(s.replace(r, (m, a) => Buffer(a).reverse())) : s
 
-// b-tarik
 
+// b-tarik
 function solution (inputString) {
   let result = inputString
 

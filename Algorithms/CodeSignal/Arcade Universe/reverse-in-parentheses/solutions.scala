@@ -1,5 +1,4 @@
 // alx_a
-
 def solution(inputString: String): String =
   if (!inputString.contains("(")) inputString
   else {
@@ -10,7 +9,6 @@ def solution(inputString: String): String =
 
 
 // elsn
-
 def solution(g: String): String = {
   if (!g.contains('(') ) g
   else{
@@ -22,7 +20,6 @@ def solution(g: String): String = {
 
 
 // atamurius
-
 def solution(inputString: String): String = {
     var i = -1
     def process(buff: String): String = {
@@ -39,7 +36,6 @@ def solution(inputString: String): String = {
 
 
 // mechks
-
 def solution(inputString: String): String = {
     val mt = "\\([a-z]*\\)".r
     var st = inputString
@@ -51,7 +47,6 @@ def solution(inputString: String): String = {
 
 
 // nr-5
-
 def solution(inputString: String): String = {
   if(!inputString.contains("(")){
     inputString

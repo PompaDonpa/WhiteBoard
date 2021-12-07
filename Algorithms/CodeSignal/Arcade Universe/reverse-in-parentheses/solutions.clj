@@ -1,5 +1,4 @@
 ;; thewayofthecode
-
 (defn solution [inputString] 
     (loop [s inputString]
         (if-let [par (re-find #"\([^()]*\)" s)]
@@ -11,8 +10,8 @@
     )
 )
 
-;; luizsol
 
+;; luizsol
 (defn solution [inputString] 
   (let [pattern (re-find #"\([^()]*\)" inputString)]
     (println (str pattern))
@@ -23,7 +22,6 @@
 
 
 ;; msladecek
-
 (defn solution [inputString]
   (let [matcher (re-matcher #"^(.*?)\(([^()]*)\)(.*?)$" inputString)
         found (re-find matcher)]
@@ -37,7 +35,6 @@
 
 
 ;; declan_m2
-
 (defn innerMostParens [s]
   (loop [i 0
          n -1]
@@ -60,7 +57,6 @@
 
 
 ;; cerejo
-
 (defn solution [i] 
   (if (re-find #"\(" i)
     (solution(clojure.string/replace-first i #"\(\w*\)" (clojure.string/replace (apply str(reverse (re-find #"\(\w*\)" i))) #"[\(,\)]" "")))

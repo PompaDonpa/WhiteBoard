@@ -1,5 +1,4 @@
 // blablubqq
-
 fn solution(inputString: String) -> String {
     let mut input = inputString.chars().collect::<Vec<_>>();
     let mut stack = Vec::new();
@@ -17,7 +16,6 @@ fn solution(inputString: String) -> String {
 
 
 // moushkka
-
 fn f(instr: &mut std::str::Chars) -> String {
     let mut out = String::new();
     while let Some(c) = instr.next() {
@@ -43,7 +41,6 @@ fn solution(inputString: String) -> String {
 
 
 // anier
-
 fn solution(input: String) -> String {
     let mut stack = Vec::with_capacity(input.len());
     let mut result = String::with_capacity(input.len());
@@ -74,7 +71,6 @@ fn solution(input: String) -> String {
 
 
 // kevin_c147
-
 fn solution(inputString: String) -> String {
     let mut stack = vec![];
     let mut cur = String::new();
@@ -98,9 +94,8 @@ fn solution(inputString: String) -> String {
 }
 
 
+
 // elmt
-
-
 use std::str::Chars;
 
 fn take_paren<'a>(chars: &mut Chars<'a>, above: bool) -> Result<String, char> {

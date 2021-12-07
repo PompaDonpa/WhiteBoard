@@ -1,7 +1,4 @@
-/**
- * gennie
- */
-
+// gennie
 function solution (series) {
   var moves = 0
 
@@ -16,10 +13,9 @@ function solution (series) {
   return moves
 }
 
-/**
- * thenanox
- */
 
+
+// thenanox
 function solution (inputArray) {
   return inputArray.reduce(function (x, b, i, a) {
     while (b >= a[i + 1]) {
@@ -30,10 +26,9 @@ function solution (inputArray) {
   }, 0)
 }
 
-/**
- * codeedog
- */
 
+
+// codeedog
 s = 0
 function solution (a) {
   a.map((v, i) =>
@@ -42,10 +37,9 @@ function solution (a) {
   return s
 }
 
-/**
- * js_the_game
- */
 
+
+// js_the_game
 function solution (inputArray) {
   let additions = 0
   let lastNum = inputArray[0]

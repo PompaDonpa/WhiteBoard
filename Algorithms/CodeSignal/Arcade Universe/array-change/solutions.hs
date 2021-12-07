@@ -1,5 +1,4 @@
 -- speedodevo
-
 solution (x:[]) = 0
 solution (x:y:xs)
   | x < y = solution (y:xs)
@@ -7,14 +6,12 @@ solution (x:y:xs)
 
 
 -- dee
-
 solution (x:y:z) = d - y + solution (d:z)
     where d = max (x+1) y
 solution _ = 0
 
 
 -- arnaldur_b
-
 solution [] = 0
 solution (_:[]) = 0
 solution (a:b:re)
@@ -24,7 +21,6 @@ solution (a:b:re)
 
 
 -- kokotchy
-
 solution :: [Int] -> Int
 solution [] = 0
 solution [_] = 0

@@ -1,5 +1,4 @@
 // rafael_j9
-
 int solution(arr_integer a)
 {
     int cont = 0;
@@ -15,8 +14,9 @@ int solution(arr_integer a)
     return cont;
 }
 
-// deleted-wB
 
+
+// deleted-wB
 int solution(arr_integer a) {
     int result = 0 ; 
     for(int i = 1 ; i < a.size; i++)

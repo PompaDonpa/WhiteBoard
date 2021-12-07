@@ -1,5 +1,4 @@
 // OxOd01
-
 func solution(s string) string {
 	stack, tmp := make([]rune, 0, len(s)), make([]rune, 0, len(s))
 	for _, c := range s {
@@ -18,7 +17,6 @@ func solution(s string) string {
 }
 
 // fixel
-
 func solution(in string) (res string) {
 	op, cl := 0, 0
 	for i, c := range in {
@@ -41,7 +39,6 @@ func solution(in string) (res string) {
 }
 
 // ryan_a27
-
 func solution(inputString string) string {
 	res := ""
 	stack := make([]string, 0)
@@ -69,7 +66,6 @@ func reverse(s string) string {
 }
 
 // marcin_b11
-
 func solution(inputString string) (r string) {
 	ind := -1
 	r = inputString

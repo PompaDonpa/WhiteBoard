@@ -1,5 +1,4 @@
 ;; diko1
-
 (defn solution [inputArray]
   (loop [[x y & zs] inputArray
          moves 0]
@@ -11,8 +10,6 @@
 
 
 ;; ioura_b
-
-
 (defn red [[last tot] e]
   (let [d (- e last)]
     (if (> d 0)
@@ -23,8 +20,8 @@
   (second (reduce red [h 0] t)))
 
 
-;; quan_n37
 
+;; quan_n37
 (defn solution [inputArray]
   (first (reduce (fn [[moves prev] curr]
                    (if (< prev curr)
@@ -35,7 +32,6 @@
 
 
 ;; msladecek
-
 (defn step [[accum prev] next]
   (let [diff (- prev next)
         add (if (>= diff 0) (inc diff) 0)]

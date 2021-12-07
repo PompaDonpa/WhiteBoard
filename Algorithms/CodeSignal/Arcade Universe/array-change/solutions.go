@@ -1,5 +1,4 @@
 // ianbibby
-
 func solution(a []int) int {
 	moves := 0
 	for i := 1; i < len(a); i++ {
@@ -12,7 +11,6 @@ func solution(a []int) int {
 }
 
 // antonio_l11
-
 func solution(inputArray []int) int {
 	count := 0
 
@@ -26,7 +24,6 @@ func solution(inputArray []int) int {
 }
 
 // OxOaOd
-
 func solution(inputArray []int) int {
 	step := 0
 	curr := inputArray[0]

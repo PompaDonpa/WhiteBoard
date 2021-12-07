@@ -1,5 +1,4 @@
 // Eduard_P_2
-
 std::string solution(std::string s) {
   stack <int> st;
   for (int i = 0; i < s.size(); ++i) {
@@ -19,7 +18,6 @@ std::string solution(std::string s) {
 
 
 // progheal
-
 string solution(string inputString) {
     regex R ("\\(([^()]*)\\)");
     smatch m;
@@ -28,8 +26,8 @@ string solution(string inputString) {
     return inputString;
 }
 
-// sir_emantaler
 
+// sir_emantaler
 std::string solution(const std::string& input) {
     std::stack<std::string> s;
     s.emplace();
@@ -51,8 +49,8 @@ std::string solution(const std::string& input) {
     return s.top();
 }
 
-// rdpb
 
+// rdpb
 std::string solution(std::string inputString) {
     std::string curr = "";
     std::stack<std::string> st;

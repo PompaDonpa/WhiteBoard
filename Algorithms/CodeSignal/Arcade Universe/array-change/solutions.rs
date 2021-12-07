@@ -1,5 +1,4 @@
 // csteffen
-
 use std::cmp;
 
 fn solution(inputArray: Vec<i32>) -> i32 {
@@ -14,7 +13,6 @@ fn solution(inputArray: Vec<i32>) -> i32 {
 
 
 // chris_w103
-
 fn solution(inputArray: Vec<i32>) -> i32 {
     let mut result = 0;
     inputArray.iter().skip(1).fold(inputArray[0], |prev, &int| {
@@ -27,8 +25,9 @@ fn solution(inputArray: Vec<i32>) -> i32 {
     result
 }
 
-// ejk
 
+
+// ejk
 fn solution(mut x: Vec<i32>) -> i32 {
     let mut z: i32 = 0; 
     
@@ -42,8 +41,8 @@ fn solution(mut x: Vec<i32>) -> i32 {
 }
 
 
-// elmt
 
+// elmt
 fn solution(mut input_array: Vec<i32>) -> i32 {
     let mut total = 0;
     for i in 0..(input_array.len() - 1) {
