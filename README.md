@@ -36,7 +36,7 @@
 
 <br />
 
-- ## Avent Of Code
+- ## Advent Of Code
   - [Calendar](https://github.com/PompaDonpa/WhiteBoard/tree/main/Avent-Of-Code)
 
 
