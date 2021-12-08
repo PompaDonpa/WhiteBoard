@@ -26,8 +26,8 @@
 
 </p>
 
-## ‣ [Arcade Universe](https://app.codesignal.com/arcade)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Interview Practice](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice)
-<br />
+## ‣ [Arcade Universe](https://app.codesignal.com/arcade)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Interview Practice](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice#center)
+<br id='center'/>
 
 -   The Journey Begins
     -   [add](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/add)

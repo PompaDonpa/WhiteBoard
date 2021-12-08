@@ -26,8 +26,8 @@
 
 </p>
 
-## [Arcade Universe](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;‣ [Interview Practice](https://app.codesignal.com/interview-practice)
-<br />
+## [Arcade Universe](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal#center)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;‣ [Interview Practice](https://app.codesignal.com/interview-practice#center)
+<br id='center'/>
 
 ⊹ [Data Structures](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice)&emsp;&emsp;&emsp; [Sorting & Searching](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Sorting%20&%20Searching)&emsp;&emsp;&emsp; [Dynamic Programming](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Dynamic%20Programming)&emsp;&emsp;&emsp; [Special Topics](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Special%20Topics)
 -   &ensp;
