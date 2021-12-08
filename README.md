@@ -27,20 +27,20 @@
 
 <br />
 
-- ## [Algorithms](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms)
-  - [CodeSignal](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal)
+- ## Algorithms
+  - [CodeSignal](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal#cds)
   - [Codewars](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeWars)
   - [Interviews](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/Interviews)
   - [LeetCode](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/LeetCode)
 
 <br />
 
-- ## [Avent Of Code](https://github.com/PompaDonpa/WhiteBoard/tree/main/Avent-Of-Code)
+- ## Avent Of Code
   - [Calendar](https://github.com/PompaDonpa/WhiteBoard/tree/main/Avent-Of-Code)
 
 
 <br />
 
-- ## [Cracking The Code Interview](https://github.com/PompaDonpa/WhiteBoard/tree/main/Cracking-The-Code-Interview/)
+- ## Cracking The Code Interview
   - [Chapter - 01](https://github.com/PompaDonpa/WhiteBoard/tree/main/Cracking-The-Code-Interview/chapter%20-%2001)
 
