@@ -1,11 +1,12 @@
 # WhiteBoard
 
-+ This repository contains a collection of examples of many popular algorithms and data structures.
-+ Includes a catalog of the most frequently asked questions in programming and popular resources such as videos, publications and more.
+<code>
+    <img src="https://komarev.com/ghpvc/?username=PompaDonpa&label=Views&color=blue" alt="WhiteBoard views" style="vertical-align:top; margin:4px"/>
+</code>
+
+<br />
 
 
-  
-----------
 
 <div align="center" >
 
