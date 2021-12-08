@@ -87,7 +87,7 @@
     -   [buildPalindrome]()
     -   [Elections Winners]()
     -   [is MAC48 Address]()
--   Rainvow of Clarity
+-   Rainbow of Clarity
     -   [isDigit]()
     -   [lineEncoding]()
     -   [chessKnight]()
