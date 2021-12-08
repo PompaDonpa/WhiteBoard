@@ -7,10 +7,9 @@
     </a>
 </p>
 
-<br />
 
 ### My Badges
-<br />
+
 
 <p align="left" >
     <img src='https://app.codesignal.com/user-icons/miscellaneous/email_verified.svg' alt='real human bean badge' style="width: 32px" />&emsp;
@@ -27,9 +26,9 @@
 
 </p>
 
+## ‣ [Arcade Universe](https://app.codesignal.com/arcade)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Interview Practice](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice)
 <br />
 
-## [Arcade Universe](https://app.codesignal.com/arcade)
 -   The Journey Begins
     -   [add](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/add)
     -   [centuryFromYear](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/century-from-year)
