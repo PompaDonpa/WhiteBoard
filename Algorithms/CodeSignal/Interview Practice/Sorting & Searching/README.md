@@ -1,4 +1,4 @@
-# **CodeSignal**
+<h1 id='cds'><strong>CodeSignal</strong></h1>
 
 <p align="left" >
     <img src='https://app.codesignal.com/badges/user-level/22.svg' alt='codesignal-badge' style="width: 32px" />&emsp;
@@ -27,7 +27,7 @@
 </p>
 <br id="center"/>
 
-## [Arcade Universe](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal#center)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;‣ [Interview Practice](https://app.codesignal.com/interview-practice)
+## [Arcade Universe](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal#cds)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;‣ [Interview Practice](https://app.codesignal.com/interview-practice)
 <br />
 
 &ensp; [Data Structures](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice#center)&emsp;&emsp;&emsp;⊹ [Sorting & Searching](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Sorting%20&%20Searching#center)&emsp;&emsp;&emsp; [Dynamic Programming](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Dynamic%20Programming#center)&emsp;&emsp;&emsp; [Special Topics](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Special%20Topics#center)

@@ -1,6 +1,6 @@
-# **CodeSignal**
+<h1 id='cds'><strong>CodeSignal</strong></h1>
 
-<p align="left" id='cds'>
+<p align="left" >
     <img src='https://app.codesignal.com/badges/user-level/22.svg' alt='codesignal-badge' style="width: 32px" />&emsp;
     <a href='https://app.codesignal.com/profile/pompadonpa'>
         <img src='../../Assets/svg/codesignal.svg' alt='codesignal-badge' />
@@ -27,7 +27,7 @@
 </p>
 <br id='center'/>
 
-## ‣ [Arcade Universe](https://app.codesignal.com/arcade)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Interview Practice](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice#center)
+## ‣ [Arcade Universe](https://app.codesignal.com/arcade)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Interview Practice](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice#cds)
 <br />
 
 -   The Journey Begins
