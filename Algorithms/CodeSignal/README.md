@@ -25,9 +25,10 @@
     <img src='https://app.codesignal.com/user-icons/miscellaneous/team_codefights.svg' alt='team codesignal badge' style="width: 32px" />&emsp;
 
 </p>
+<br id='center'/>
 
 ## ‣ [Arcade Universe](https://app.codesignal.com/arcade)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Interview Practice](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice#center)
-<br id='center'/>
+<br />
 
 -   The Journey Begins
     -   [add](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/add)
