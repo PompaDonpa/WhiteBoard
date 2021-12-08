@@ -3,7 +3,7 @@
 <p align="left" >
     <img src='https://app.codesignal.com/badges/user-level/22.svg' alt='codesignal-badge' style="width: 32px" />&emsp;
     <a href='https://app.codesignal.com/profile/pompadonpa'>
-        <img src='../../../Assets/svg/codesignal.svg' alt='codesignal-badge' />
+        <img src='../../../../Assets/svg/codesignal.svg' alt='codesignal-badge' />
     </a>
 </p>
 
@@ -29,42 +29,26 @@
 ## [Arcade Universe](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;‣ [Interview Practice](https://app.codesignal.com/interview-practice)
 <br />
 
-⊹ [Data Structures](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice)&emsp;&emsp;&emsp; [Sorting & Searching](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Sorting%20&%20Searching)&emsp;&emsp;&emsp; [Dynamic Programming](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Dynamic%20Programming)&emsp;&emsp;&emsp; [Special Topics](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Special%20Topics)
+&ensp; [Data Structures](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice)&emsp;&emsp;&emsp;⊹ [Sorting & Searching](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Sorting%20&%20Searching)&emsp;&emsp;&emsp; [Dynamic Programming](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Dynamic%20Programming)&emsp;&emsp;&emsp; [Special Topics](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Special%20Topics)
 -   &ensp;
 
-    -   Arrays
-        -   [firstDuplicate]()
-        -   [firstNotRepeatingCharacter]()
-        -   [rotateImage]()
-        -   [sudoku2]()
-        -   [isCryptSolution]()
-    -   Linked Lists
-        -   [removeFromList]()
-        -   [isListPalindrome]()
-        -   [addTwoHugeNumbers]()
-        -   [mergeTwoLinkedLists]()
-        -   [reverseNodesinKGroups]()
-        -   [rearrangeLastN]()
-    -   Hash Tables
-        -   [groupingDishes]()
-        -   [areFollowingPatterns]()
-        -   [containsCloseNums]()
-        -   [possibleSums]()
-        -   [swapLexOrder]()      
-    -   Trees Basic
-        -   [hasPathWithGivenSum]()
-        -   [isTreeSymmetric]()
-        -   [findProfession]()
-        -   [kthSmallestInBST]()
-        -   [isSubTree]()
-        -   [restoreBinaryTree]()
-        -   [findSubstrings]()
-        -   [deleteFromBST]()
-    -   Heaps, Stacks, Queues
-        -   [kthLargestElement]()
-        -   [simplifyPath]()
-        -   [decodeString]()
-        -   [nextLarger]()
-        -   [minimumOnStack]()
-        -   [countClouds]()
-        -   [nearestGreater]()
+    -   Depth-First Search & Breadth-First Search
+        -   [traverseTree]()
+        -   [largestValuesInTreeRows]()
+        -   [digiTreeSum]()
+        -   [longestPath]()
+        -   [graphDistances]()
+    -   Backtracking
+        -   [climbingStaircase]()
+        -   [nQueens]()
+        -   [sumSubsets]()
+        -   [WordPoggle]()
+        -   [combinationSum]()
+    -   Sorting
+        -   [bubbleSort]()
+        -   [mergeSort]()
+        -   [mergeKArrays]()
+        -   [quickSort]()
+        -   [higherVersion2]()
+        -   [sortByString]()
+        -   [sortedSquaredArray]()
