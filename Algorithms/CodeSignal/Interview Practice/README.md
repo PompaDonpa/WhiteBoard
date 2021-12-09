@@ -34,11 +34,11 @@
 -   &ensp;
 
     -   Arrays
-        -   [firstDuplicate]()
-        -   [firstNotRepeatingCharacter]()
-        -   [rotateImage]()
-        -   [sudoku2]()
-        -   [isCryptSolution]()
+        -   [firstDuplicate](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Data%20Structures/Arrays/first-duplicate)
+        -   [firstNotRepeatingCharacter](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Data%20Structures/Arrays/first-not-repeating-character)
+        -   [rotateImage](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Data%20Structures/Arrays/rotate-image)
+        -   [sudoku2](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Data%20Structures/Arrays/sudoku-2)
+        -   [isCryptSolution](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Interview%20Practice/Data%20Structures/Arrays/is-crypt-solution)
     -   Linked Lists
         -   [removeFromList]()
         -   [isListPalindrome]()

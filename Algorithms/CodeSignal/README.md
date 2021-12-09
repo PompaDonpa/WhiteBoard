@@ -53,12 +53,12 @@
     -   [arrayChange](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/Exploring-The-Waters/array-change)
     -   [palindromeRearranging](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/Exploring-The-Waters/palindrome-rearranging)
 -   Island of Knowledge
-    -   [areEquallyStrong]()
-    -   [arrayMaximalAdjacentDifference]()
-    -   [isIPv4Address]()
-    -   [avoidObstacles]()
-    -   [Box Blur]()
-    -   [Minesweeper]()
+    -   [areEquallyStrong](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/Island-Of-Knowledge/are-equally-strong/)
+    -   [arrayMaximalAdjacentDifference](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/Island-Of-Knowledge/array-maximal-adjacent-difference/)
+    -   [isIPv4Address](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/Island-Of-Knowledge/is-ipv4-address/)
+    -   [avoidObstacles](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/Island-Of-Knowledge/avoid-obstacles/)
+    -   [Box Blur](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/Island-Of-Knowledge/box-blur/)
+    -   [Minesweeper](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal/Arcade%20Universe/Island-Of-Knowledge/mine-sweeper/)
 -   Rains of Reason
     -   [Array Replace]()
     -   [evenDigitsOnly]()
