@@ -26,13 +26,13 @@ var intersection = function (nums1, nums2) {
   const setTwo = new Set(nums2)
 
   if (setOne.size < setTwo.size) {
-    return getRepetingElements(setOne, setTwo)
+    return getRepeatingElements(setOne, setTwo)
   } else {
-    return getRepetingElements(setTwo, setOne)
+    return getRepeatingElements(setTwo, setOne)
   }
 }
 
-function getRepetingElements (small, big) {
+function getRepeatingElements (small, big) {
   const answer = []
 
   for(let num of small) {
