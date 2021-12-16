@@ -1,7 +1,7 @@
 <h1 id='cds'><strong>CodeSignal</strong></h1>
 
 <p align="left" >
-    <img src='https://app.codesignal.com/badges/user-level/22.svg' alt='codesignal-badge' style="width: 32px" />&emsp;
+    <img src='https://app.codesignal.com/badges/user-level/23.svg' alt='codesignal-badge' style="width: 32px" />&emsp;
     <a href='https://app.codesignal.com/profile/pompadonpa'>
         <img src='../../../Assets/svg/codesignal.svg' alt='codesignal-badge' />
     </a>
@@ -18,6 +18,7 @@
     <img src='https://app.codesignal.com/user-icons/solved/solved_1.svg' alt='first steps badge' style="width: 32px" />&emsp;
     <img src='https://app.codesignal.com/user-icons/solved/solved_5.svg' alt='learning to crawl badge' style="width: 32px" />&emsp;
     <img src='https://app.codesignal.com/user-icons/solved/solved_20.svg' alt='gotta walk before run badge' style="width: 32px" />&emsp;
+    <img src="https://app.codesignal.com/user-icons/solved/solved_50.svg" alt='solved 50 badge' style="width: 32px" />&emsp;
     <img src='https://app.codesignal.com/user-icons/interview_practice/plan_selected.svg' alt='bright eyed badge' style="width: 32px" />&emsp;
     <img src='https://app.codesignal.com/user-icons/interview_practice/ipm_topic_1.svg' alt='freshman badge' style="width: 32px" />&emsp;
     <img src='https://app.codesignal.com/user-icons/arcade/arcade_levels_1.svg' alt='commoner badge' style="width: 32px" />&emsp;
