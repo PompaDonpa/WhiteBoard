@@ -46,10 +46,11 @@
 <br />
 
 - ## Algorithms
-  - [CodeSignal](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeSignal#cds)
-  - [Codewars](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/CodeWars)
-  - [Interviews](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/Interviews)
-  - [LeetCode](https://github.com/PompaDonpa/WhiteBoard/tree/main/Algorithms/LeetCode)
+  - [CodeSignal](/Algorithms/CodeSignal#cds)
+  - [Codewars](/Algorithms/CodeWars)
+  - [CodinGame](/Algorithms/CodinGame)
+  - [Interviews](/Algorithms/Interviews)
+  - [LeetCode](/Algorithms/LeetCode)
 
 <br />
 
