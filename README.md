@@ -19,29 +19,27 @@
 
   <img src="https://www.codewars.com/users/PompaDonpa/badges/large" />
   
-  <a href="https://www.hackerrank.com/PompaDonpa">HackerRank</a>&emsp;.&ensp;
-  <a href="https://www.codewars.com/users/PompaDonpa">CodeWars</a>&emsp;.&ensp;
-  <a href="https://app.codesignal.com/profile/pompadonpa">CodeSignal</a>&emsp;.&ensp;
-  <a href="https://leetcode.com/PompaDonpa/">LeetCode</a>
-   
-</div>
-
-<div align="center" >
-
-  <a href="https://exercism.org/profiles/PompaDonpa">Exercism</a>&emsp;.&ensp;
-  <a href="https://www.codingame.com/profile/6c30a3300f1cb4629458462fb23363688386564">CodinGame</a>&emsp;.&ensp;
-  <a href="https://js.checkio.org/user/PompaDonpa/">Checkio</a>&emsp;.&ensp;
-  <a href="https://www.freecodecamp.org/PompaDonpa/">FreeCodeCamp</a>
-   
-</div>
-
-<div align="center" >
-
   <a href="https://challengerocket.com/profile/danielnaranjo">Challenge Rocket</a>&emsp;.&ensp;
-  <a href="https://www.codingame.com/profile/6c30a3300f1cb4629458462fb23363688386564">CodinGame</a>&emsp;.&ensp;
-  <a href="https://app.codesignal.com/profile/pompadonpa">CodeSignal</a>&emsp;.&ensp;
-  <a href="https://leetcode.com/PompaDonpa/"></a>
+  <a href="https://js.checkio.org/user/PompaDonpa/">Checkio</a>&emsp;.&ensp;
+  <a href="https://js.checkio.org/user/PompaDonpa/">CodeAbbey</a>
    
+</div>
+
+<div align="center" >
+
+  <a href="https://app.codesignal.com/profile/pompadonpa">CodeSignal</a>&emsp;.&ensp;
+  <a href="https://www.codewars.com/users/PompaDonpa">CodeWars</a>&emsp;.&ensp;
+  <a href="https://www.codingame.com/profile/6c30a3300f1cb4629458462fb23363688386564">CodinGame</a>&emsp;.&ensp;
+  <a href="https://exercism.org/profiles/PompaDonpa">Exercism</a>
+
+</div>
+
+<div align="center" >
+
+  <a href="https://www.freecodecamp.org/PompaDonpa/">FreeCodeCamp</a>&emsp;.&ensp;
+  <a href="https://leetcode.com/PompaDonpa/">LeetCode</a>&emsp;.&ensp;
+  <a href="https://www.hackerrank.com/PompaDonpa">HackerRank</a>
+
 </div>
 
 <br />
