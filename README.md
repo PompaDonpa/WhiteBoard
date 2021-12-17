@@ -26,6 +26,24 @@
    
 </div>
 
+<div align="center" >
+
+  <a href="https://exercism.org/profiles/PompaDonpa">Exercism</a>&emsp;.&ensp;
+  <a href="https://www.codingame.com/profile/6c30a3300f1cb4629458462fb23363688386564">CodinGame</a>&emsp;.&ensp;
+  <a href="https://js.checkio.org/user/PompaDonpa/">Checkio</a>&emsp;.&ensp;
+  <a href="https://www.freecodecamp.org/PompaDonpa/">FreeCodeCamp</a>
+   
+</div>
+
+<div align="center" >
+
+  <a href="https://challengerocket.com/profile/danielnaranjo">Challenge Rocket</a>&emsp;.&ensp;
+  <a href="https://www.codingame.com/profile/6c30a3300f1cb4629458462fb23363688386564">CodinGame</a>&emsp;.&ensp;
+  <a href="https://app.codesignal.com/profile/pompadonpa">CodeSignal</a>&emsp;.&ensp;
+  <a href="https://leetcode.com/PompaDonpa/"></a>
+   
+</div>
+
 <br />
 
 - ## Algorithms
