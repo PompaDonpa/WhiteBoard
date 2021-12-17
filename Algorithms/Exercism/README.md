@@ -13,7 +13,6 @@
 
 <p align="left" >
     <img src='../../Assets/exercism/member.svg' alt='exercism member badge' style="width: 32px" />&emsp;
-
 </p>
 
 <br />

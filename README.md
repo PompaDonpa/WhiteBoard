@@ -37,29 +37,36 @@
 
 <div align="center" >
 
-  <a href="https://www.freecodecamp.org/PompaDonpa/">FreeCodeCamp</a>&emsp;.&ensp;
-  <a href="https://leetcode.com/PompaDonpa/">LeetCode</a>&emsp;.&ensp;
-  <a href="https://www.hackerrank.com/PompaDonpa">HackerRank</a>
+  <a href="https://www.freecodecamp.org/PompaDonpa/">freeCodeCamp</a>&emsp;.&ensp;
+  <a href="https://www.hackerrank.com/PompaDonpa">HackerRank</a>&emsp;.&ensp;
+  <a href="https://leetcode.com/PompaDonpa/">LeetCode</a>
 
 </div>
 
 <br />
 
 - ## Algorithms
+  - [Checkio](/Algorithms/Checkio)
   - [CodeSignal](/Algorithms/CodeSignal#cds)
   - [Codewars](/Algorithms/CodeWars)
   - [CodinGame](/Algorithms/CodinGame)
-  - [Interviews](/Algorithms/Interviews)
+  - [Exercism](/Algorithms/Exercism)
+  - [freeCodeCamp](/Algorithms/FreeCodeCamp)
+  - [HackerRank](/Algorithms/HackerRank)
   - [LeetCode](/Algorithms/LeetCode)
 
 <br />
 
 - ## Advent Of Code
-  - [Calendar](https://github.com/PompaDonpa/WhiteBoard/tree/main/Avent-Of-Code)
+  - [Calendar](/Avent-Of-Code)
 
 
 <br />
 
 - ## Cracking The Code Interview
-  - [Chapter - 01](https://github.com/PompaDonpa/WhiteBoard/tree/main/Cracking-The-Code-Interview/chapter%20-%2001)
+  - [Chapter - 01](/Cracking-The-Code-Interview/chapter%20-%2001)
 
+<br />
+
+- ## Interviews
+  - [Main](/Interviews)
