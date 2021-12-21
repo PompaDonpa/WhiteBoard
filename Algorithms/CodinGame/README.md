@@ -2,7 +2,7 @@
 
 <p align="left" >
     <img src='../../Assets/codin-game/current-level.svg' alt='codingame-level' style="width: 38px" />&emsp;
-    <a href='https://exercism.org/profiles/PompaDonpa'>
+    <a href='https://www.codingame.com/profile/6c30a3300f1cb4629458462fb23363688386564'>
         <img src="../../Assets/codin-game/codingame-pd.svg" alt='codingame badge' />
     </a>
 </p>
