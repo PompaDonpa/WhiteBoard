@@ -1,12 +1,15 @@
-<h1><kbd>Interviews Solutions</kbd></h1>
+<code>
+    <h1>Interviews Solutions</h1>
+</code>
 
-<img src="../Assets/interviews/carbon.svg" />
+
 
 <!-- [WhiteBoard](../README.md)
 [CodeSnippets](https://github.com/PompaDonpa/CodeSnippets) -->
 
 
 <div align="center">
-    <a href="../README.md"><h3>WhiteBoard</h3></a>&emsp;.&ensp;
+    <img src="../Assets/interviews/carbon.svg" style="width:600px"/>
+    <a href="https://github.com/PompaDonpa/WhiteBoard"><h3>WhiteBoard</h3></a>&emsp;.&ensp;
     <a href="https://github.com/PompaDonpa/CodeSnippets"><h3>CodeSnippets</h3></a>
 </div> 
