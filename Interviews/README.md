@@ -4,17 +4,17 @@
     <img src="../Assets/interviews/carbon.svg" style="width:600px"/>
 </div> 
 
-<div align="center" id='top'>
+<div align="center" >
     <a href="https://github.com/PompaDonpa/WhiteBoard">WhiteBoard</a>&emsp;.&ensp;
     <a href="https://github.com/PompaDonpa/CodeSnippets">CodeSnippets</a>&emsp;.&ensp;
     <a href="https://github.com/PompaDonpa/">PompaDonpa</a>
 </div> 
 
-<br />
+<br id='top' />
 
 
--   [BattleShips](/battleships/index.js)
--   [Find Second Largest](/find-second-largest-element-array/index.js)
--   [Intersection of 2 Arrays](/intersection-of-two-arrays/index.js)
--   [Is Balanced Parentheses](/is-balanced-parentheses/index.js)
--   [Minimum Number of Brackets](/minimum-number-of-brackets/index.js)
+-   [BattleShips](Interviews/battleships/index.js)
+-   [Find Second Largest](Interviews/find-second-largest-element-array/index.js)
+-   [Intersection of 2 Arrays](/Interviewsintersection-of-two-arrays/index.js)
+-   [Is Balanced Parentheses](Interviews/is-balanced-parentheses/index.js)
+-   [Minimum Number of Brackets](Interviews/minimum-number-of-brackets/index.js)
