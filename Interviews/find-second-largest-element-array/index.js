@@ -1,5 +1,5 @@
 /**
- * @param {Array} ints
+ * @param {Array} any
  * @return {Int}
  *
  * description:
@@ -14,13 +14,13 @@
  *          Output: null
  *
  *          Input : nums = [-Infinity, Infinity]
- *          Output: -Inifinity
+ *          Output: -Infinity
  *
  *          Input : nums = [Infinity, Infinity]
- *          Output: Inifinity
+ *          Output: Infinity
  *
  *          Input : nums = [-Infinity, -Infinity]
- *          Output: -Inifinity
+ *          Output: -Infinity
  *
  *          Input : nums = [-Infinity, 0, Infinity]
  *          Output: 0
