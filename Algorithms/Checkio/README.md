@@ -9,4 +9,6 @@
 
 ### My Badges
 
-<br />
+<img src ="https://dk1vwk12q8pjl.cloudfront.net/badges/svg/good_start.svg"  style="width: 36px" alt="Great start badge"/>
+<img src="https://dk1vwk12q8pjl.cloudfront.net/badges/svg/productive_day.svg" style="width: 36px" alt="Productive Day badge">
+<img src="https://dk1vwk12q8pjl.cloudfront.net/badges/svg/solver_l1.svg" style ="width: 36px" alt="Solver Level 1"> 
