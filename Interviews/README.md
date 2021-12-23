@@ -10,6 +10,11 @@
 
 <div align="center">
     <img src="../Assets/interviews/carbon.svg" style="width:600px"/>
-    <a href="https://github.com/PompaDonpa/WhiteBoard"><h3>WhiteBoard</h3></a>&emsp;.&ensp;
-    <a href="https://github.com/PompaDonpa/CodeSnippets"><h3>CodeSnippets</h3></a>
 </div> 
+
+<div align="center">
+    <a href="https://github.com/PompaDonpa/WhiteBoard">WhiteBoard</a>&emsp;.&ensp;
+    <a href="https://github.com/PompaDonpa/CodeSnippets">CodeSnippets</a>&emsp;.&ensp;
+    <a href="https://github.com/PompaDonpa/">PompaDonpa</a>
+</div> 
+
