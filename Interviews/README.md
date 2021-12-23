@@ -13,8 +13,8 @@
 <br />
 
 
--   [BattleShips](Interviews/battleships/index.js)
+-   [BattleShips](battleships/index.js)
 -   [Find Second Largest](find-second-largest-element-array/index.js)
--   [Intersection of 2 Arrays](/intersection-of-two-arrays/index.js)
--   [Is Balanced Parentheses](/is-balanced-parentheses/index.js)
--   [Minimum Number of Brackets](/minimum-number-of-brackets/index.js)
+-   [Intersection of 2 Arrays](intersection-of-two-arrays/index.js)
+-   [Is Balanced Parentheses](is-balanced-parentheses/index.js)
+-   [Minimum Number of Brackets](minimum-number-of-brackets/index.js)
